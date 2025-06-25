@@ -1,0 +1,24 @@
+services:
+  backend:
+    build:
+      context: ./FileShareApp
+      dockerfile: Dockerfile
+    container_name: fileshare-backend
+    ports:
+      - "8080:80"
+    env_file: ./FileShareApp/.env
+    volumes:
+      - backend_data:/app/data
+
+  frontend:
+    container_name: fileshare-frontend
+    image: nginx:alpine
+    ports:
+      - "7197:80"
+    volumes:
+      - ./FileShare.Frontend/wwwroot:/usr/share/nginx/html:ro
+    depends_on:
+      - backend
+
+volumes:
+  backend_data:

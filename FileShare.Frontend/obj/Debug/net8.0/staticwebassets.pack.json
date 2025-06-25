@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\api-client.js",
+      "PackagePath": "staticwebassets\\js\\api-client.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\config.json",
+      "PackagePath": "staticwebassets\\js\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\form-utils.js",
+      "PackagePath": "staticwebassets\\js\\form-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\js\\upload.js",
+      "PackagePath": "staticwebassets\\js\\upload.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\register.html",
+      "PackagePath": "staticwebassets\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\FileShare.Frontend\\wwwroot\\upload.html",
+      "PackagePath": "staticwebassets\\upload.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileShare.Frontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FileShare.Frontend.props",
+      "PackagePath": "build\\FileShare.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FileShare.Frontend.props",
+      "PackagePath": "buildMultiTargeting\\FileShare.Frontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FileShare.Frontend.props",
+      "PackagePath": "buildTransitive\\FileShare.Frontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.csproj.AssemblyReference.cache
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.AssemblyInfoInputs.cache
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.AssemblyInfo.cs
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.csproj.CoreCompileInputs.cache
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naaan\source\repos\FileShareApp\obj\Debug\net8.0\FileShareApp.MvcApplicationPartsAssemblyInfo.cache

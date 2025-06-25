@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n1pYZCkG+8cyCa0tMXnu1+1rjVysNre2PCBkoBxLNEo=",
+  "Source": "FileShareApp.Backend",
+  "BasePath": "_content/FileShareApp.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

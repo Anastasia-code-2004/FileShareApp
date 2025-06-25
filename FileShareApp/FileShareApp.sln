@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileShareApp.Backend", "FileShareApp.Backend.csproj", "{AEC1D2B3-63CB-4D5B-BAD9-3C5A5B6ADDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileShare.Frontend", "..\FileShare.Frontend\FileShare.Frontend.csproj", "{9DEE6EE6-DDD8-4B03-8C27-7F837B36E44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC1D2B3-63CB-4D5B-BAD9-3C5A5B6ADDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC1D2B3-63CB-4D5B-BAD9-3C5A5B6ADDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC1D2B3-63CB-4D5B-BAD9-3C5A5B6ADDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC1D2B3-63CB-4D5B-BAD9-3C5A5B6ADDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEE6EE6-DDD8-4B03-8C27-7F837B36E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEE6EE6-DDD8-4B03-8C27-7F837B36E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEE6EE6-DDD8-4B03-8C27-7F837B36E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEE6EE6-DDD8-4B03-8C27-7F837B36E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22F3FFC-27B3-4B30-9CBD-7B47AE579471}
+	EndGlobalSection
+EndGlobal

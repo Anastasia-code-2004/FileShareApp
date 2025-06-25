@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileShare.Frontend.props" />
+</Project>
